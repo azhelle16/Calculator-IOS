@@ -18,14 +18,15 @@ This project serves as a challenge of our knowledge with Auto-Layout and Constra
 
 ![Sample Look 1](Documentation/Portrait.png)
 
-<br>
-
 <h3>Landscape</h3>
 
 ![Sample Look 2](Documentation/Landscape.png)
 
-
 </center>
+
+## Credits
+
+<a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Calculator icons created by Freepik - Flaticon</a>
 
 ## Notes
 
