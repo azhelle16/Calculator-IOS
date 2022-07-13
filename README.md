@@ -1,4 +1,4 @@
-### Calculator-IOS
+# Calculator-IOS
 
 ## Project Description
 
